@@ -18,3 +18,4 @@ local tech = {
         time = 30
     }
 }
+data:extend({tech})
