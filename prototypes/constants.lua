@@ -6,5 +6,5 @@ local CONST = {}
 
 -- Vanilla turbine is 3x5 building
 CONST.internal_turbines = settings.startup["turbine-ratio"].value
-CONST.efficiency = 0.8
+CONST.efficiency = settings.startup["turbine-efficiency"].value
 return CONST
