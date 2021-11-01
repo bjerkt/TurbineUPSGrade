@@ -1,5 +1,7 @@
 local tech = {
     name = "bulk-turbine",
+    localised_name = {"technology-name.bulk-turbine"},
+    localised_description = {"technology-description.bulk-turbine"},
     type = "technology",
     icon = "__base__/graphics/technology/radar.png",
     icon_mipmaps = 4,
