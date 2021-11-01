@@ -1,4 +1,10 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.0.2
+  Bugfixes:
+    - Efficiency setting wasn't actually changing turbine efficiency
+  Locale:
+    - Added missing locale strings
+---------------------------------------------------------------------------------------------------
 Version: 0.0.1
   Info:
     - Initial Release
